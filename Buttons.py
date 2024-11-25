@@ -24,7 +24,7 @@ class botoneraInterior(botonera):
 
 if __name__ == "__main__":
     
-    b = boton(4) 
+    b = boton(4)         
     print(b)
   
 
